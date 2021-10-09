@@ -20,65 +20,10 @@
 		src:"music/y2mate.com - 中字 King Gnu  白日冤罪律師主題歌.mp3"
 	},	
 	{
-		name:"Aimer-六等星の夜- for zl",
-		artist:"Aimer ",
-		src:"music/y2mate.com - Aimer六等星の夜中日字幕.mp3"
-	},	
-	{
-		name:"Aimer - Re:pray - for zl",
-		artist:"Aimer ",
-		src:"music/y2mate.com - HDSleepless Nights  Aimer  Repray中日字幕.mp3"
-	},	
-	{
-		name:"Aimer - あなたに出会わなければ～夏雪冬花～ - for zl",
-		artist:"Aimer ",
-		src:"music/y2mate.com - Aimer  Anatanideawanakereba Kasetsutouka.mp3"
-	},	
-	{
-		name:"Aimer - Brave Shine- for zl",
-		artist:"Aimer ",
-		src:"music/y2mate.com - Aimer  Brave Shine.mp3"
-	},	
-	{
-		name:"Aimer - 蝶々結び- for zl",
-		artist:"Aimer ",
-		src:"music/y2mate.com - Aimer 蝶々結び 野田洋次郎RADWIMPS楽曲提供プロデュース.mp3"
-	},	
-	{
-		name:"Aimer - Ref:rain - for zl",
-		artist:"Aimer ",
-		src:"music/y2mate.com - Aimer RefrainMUSIC VIDEO5th albumSun DancePenny Rain20190410水2枚同時発売.mp3"
-	},	
-	{
-		name:"Aimer - STAND ALONE - for zl ",
-		artist:"Aimer ",
-		src:"music/y2mate.com - Aimer STANDALONEMUSIC VIDEO日本テレビ系日曜ドラマあなたの番です主題歌.mp3"
-	},	
-	{
-		name:"Aimer - 3min - for zl ",
-		artist:"Aimer ",
-		src:"music/y2mate.com - Aimer 3minMUSIC VIDEO 5th albumSun DancePenny Rain410同時発売.mp3"
-	},	
-	{
-		name:"周興哲-以後別做朋友",
-		artist:"周興哲 ",
-		src:"music/y2mate.com - Eric周興哲以後別做朋友 The Distance of LoveOfficial Music Video.mp3"
-	},	
-	{
 		name:"于文文-體面",
 		artist:"于文文 ",
 		src:"music/y2mate.com - 于文文體面動態歌詞版  前任3再見前任 插曲.mp3"
-	},	
-	{
-		name:"韋禮安 -如果再見",
-		artist:"韋禮安  ",
-		src:"music/y2mate.com - 韋禮安 Weibird Wei  如果再見 If We Meet Again 官方版MV  電影極樂宿舍主題曲  韓劇龍八夷我女婿的女人請回答1988片尾曲.mp3"
-	},	
-	{
-		name:"周興哲 -你，好不好？",
-		artist:"周興哲  ",
-		src:"music/y2mate.com - Eric周興哲你好不好 How Have You BeenOfficial Music Video遺憾拼圖片尾曲.mp3"
-	},	
+	},		
 	{
 		name:"M2M - The Day You Went Away",
 		artist:"M2M",
@@ -138,11 +83,6 @@
 		name:"Dan + Shay, Justin Bieber-10,000 Hours -for CC ",
 		artist:"Dan + Shay, Justin Bieber ",
 		src:"music/y2mate.com - Dan  Shay Justin Bieber  10000 Hours Official Music Video.mp3"
-	},	
-	{
-		name:"阿肆-熱愛105°C的你 -for CC ",
-		artist:"阿肆 ",
-		src:"music/y2mate.com - 阿肆  熱愛105C的你動態歌詞Super Idol的笑容 都沒你的甜.mp3"
 	},	
 	{
 		name:"88rising-California -for BH ",
