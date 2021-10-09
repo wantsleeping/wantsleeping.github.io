@@ -1,5 +1,10 @@
 ﻿trackList = [
 	{
+		name:"TRASH 重感情的廢物 Heavyhearted Loser",
+		artist:"TRASH",
+		src:"music/y2mate.com - TRASH重感情的廢物 Heavyhearted LoserOfficial Music Video.mp3"
+	},
+	{
 		name:"julia wu【你是不是有點動心】",
 		artist:"julia wu",
 		src:"music/y2mate.com - 你是不是有點動心  Julia Wu 吳卓源Official Music Visual HD.mp3"
