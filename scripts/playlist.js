@@ -10,11 +10,6 @@
 		src:"music/y2mate.com - 你是不是有點動心  Julia Wu 吳卓源Official Music Visual HD.mp3"
 	},
 	{
-		name:"五月天 Mayday【溫柔 Tenderness】",
-		artist:"五月天",
-		src:"music/y2mate.com - 五月天 Mayday溫柔 TendernessOfficial Music Video.mp3"
-	},	
-	{
 		name:"宇多田ヒカル - First Love",
 		artist:"宇多田ヒカル ",
 		src:"music/宇多田ヒカル  First Love.mp3"
