@@ -170,11 +170,6 @@
 		src:"music/yt1s.com - The Writers 寫手  BURN 網路影集私室主題曲.mp3"
 	},	
 	{
-		name:"G.E.M.鄧紫棋【平行世界 Parallel】",
-		artist:"鄧紫棋",
-		src:"music/y2mate.com - GEM鄧紫棋平行世界 ParallelMV 電影刺殺小說家主題曲.mp3"
-	},
-	{
 		name:" 蛋堡 Soft Lipa - 史詩",
 		artist:"蛋堡",
 		src:"music/y2mate.com - 顏社蛋堡 Soft Lipa  史詩 Official Music Video.mp3"
