@@ -5,6 +5,21 @@
 		src:"music/y2mate.com - TRASH重感情的廢物 Heavyhearted LoserOfficial Music Video.mp3"
 	},
 	{
+		name:"TRASH 終究還是因為愛",
+		artist:"TRASH",
+		src:"music/TRASH終究還是因為愛 LOVEOfficial Music Video.mp3"
+	},
+	{
+		name:"茄子蛋EggPlantEgg - 浪子回頭",
+		artist:"茄子蛋EggPlantEgg",
+		src:"music/茄子蛋EggPlantEgg  浪子回頭 Back Here Again Official Music Video.mp3"
+	},
+	{
+		name:"茄子蛋EggPlantEgg - 愛情你比我想的閣較偉大",
+		artist:"茄子蛋EggPlantEgg",
+		src:"music/茄子蛋EggPlantEgg  愛情你比我想的閣較偉大 Official Music Video當男人戀愛時電影主題曲.mp3"
+	},
+	{
 		name:"julia wu【你是不是有點動心】",
 		artist:"julia wu",
 		src:"music/y2mate.com - 你是不是有點動心  Julia Wu 吳卓源Official Music Visual HD.mp3"
@@ -24,46 +39,6 @@
 		artist:"于文文 ",
 		src:"music/y2mate.com - 于文文體面動態歌詞版  前任3再見前任 插曲.mp3"
 	},		
-	{
-		name:"M2M - The Day You Went Away",
-		artist:"M2M",
-		src:"music/y2mate.com - M2M  The Day You Went Away 你離去那一天 中文字幕.mp3"
-	},	
-	{
-		name:"Leona Lewis-Bleeding Love",
-		artist:"Leona Lewis",
-		src:"music/y2mate.com - Bleeding Love蔓延的愛 Leona Lewis中文歌詞版9000s情歌.mp3"
-	},	
-	{
-		name:"Avril Lavigne - Tomorrow",
-		artist:"Avril Lavigne",
-		src:"music/y2mate.com - Avril lavigne  Tomorrow.mp3"
-	},	
-	{
-		name:"Gareth Gates - Anyone Of Us？",
-		artist:"Gareth Gates ",
-		src:"music/y2mate.com - Gareth Gates  Anyone Of Us Stupid Mistake.mp3"
-	},		
-	{
-		name:"Avril Lavigne - My Happy Ending",
-		artist:"Avril Lavigne",
-		src:"music/y2mate.com - 英繁字幕Avril Lavigne  My Happy Ending 美好結局艾薇爾經典歌曲.mp3"
-	},	
-	{
-		name:"Kelly Clarkson-Because Of You",
-		artist:"Kelly Clarkson",
-		src:"music/y2mate.com - Kelly ClarksonBecause Of You中文翻譯.mp3"
-	},	
-	{
-		name:"GReeeeN - 奇蹟",
-		artist:"GReeeeN",
-		src:"music/y2mate.com - キセキ KISEKI奇蹟  GReeeeN中文字幕翻譯MV MH M.mp3"
-	},
-	{
-		name:"Whiteeeen -キセキ～未来へ～",
-		artist:"Whiteeeen",
-		src:"music/y2mate.com - Whiteeeen キセキ未来へ電影青空吶喊主題曲 完整版MV 中文字幕羅馬拼音.mp3"
-	},
 	{
 		name:"miwa＆坂口健太郎 -アイオクリ把愛獻給你",
 		artist:"miwa＆坂口健太郎",
@@ -175,45 +150,10 @@
 		src:"music/y2mate.com - 顏社蛋堡 Soft Lipa  史詩 Official Music Video.mp3"
 	},
 	{
-		name:"P!nk - Raise Your Glass",
-		artist:"P!nk",
-		src:"music/y2mate.com - Pnk  Raise Your Glass.mp3"
-	},
-	{
 		name:"Bon Jovi - It's My Life",
 		artist:"Bon Jovi",
 		src:"music/y2mate.com - Bon Jovi  Its My Life Official Music Video.mp3"
 	},
-	{
-		name:"色情塗鴉 - 悍馬騎士",
-		artist:"色情塗鴉",
-		src:"music/yt1s.com - 色情塗鴉悍馬騎士PG中字.mp3"
-	},
-	{
-		name:"色情塗鴉 - Melissa",
-		artist:"色情塗鴉",
-		src:"music/yt1s.com - 色情塗鴉Melissa 鋼之鍊金術師OPPG中字.mp3"
-	},
-	{
-		name:"色情塗鴉 - 鳳蝶 inBBQ",
-		artist:"色情塗鴉",
-		src:"music/yt1s.com - 色情塗鴉鳳蝶 inBBQPG中字.mp3"
-	},	
-	{
-		name:"色情塗鴉 - 悲歡歲月",
-		artist:"色情塗鴉",
-		src:"music/yt1s.com - 色情塗鴉悲歡歲月Saudade  ReLIFE7 EDPG中字.mp3"
-	},		
-	{
-		name:"色情塗鴉 - 今晚,就算看不到月亮",
-		artist:"色情塗鴉",
-		src:"music/yt1s.com - 色情塗鴉今晚就算看不到月亮  BLEACH死神 主題曲PG中字.mp3"
-	},	
-	{
-		name:"色情塗鴉 - 在閃爍繁星之下",
-		artist:"色情塗鴉",
-		src:"music/yt1s.com - 色情塗鴉在閃爍繁星之下 MAGI魔奇少年OPPG中字.mp3"
-	},	
 	{
 		name:"YUI - Again",
 		artist:"YUI",
@@ -268,11 +208,6 @@
 		name:"Gym Class Heroes - Stereo Hearts  ",
 		artist:"Gym Class Heroes",
 		src:"music/yt1s.com - Stereo Hearts Lyrics.mp3"
-	},	
-	{
-		name:"粉ミルク Cover - 小さな恋のうた  ",
-		artist:"粉ミルク",
-		src:"music/yt1s.com - 求婚大作戰主題曲小さな恋のうた小小戀歌 粉ミルク Cover中文字幕.mp3"
 	},	
 	{
 		name:"Alex Goot & Against The Current - Catch My Breath   ",
