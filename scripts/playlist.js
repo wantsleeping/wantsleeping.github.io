@@ -20,6 +20,31 @@
 		src:"music/茄子蛋EggPlantEgg  愛情你比我想的閣較偉大 Official Music Video當男人戀愛時電影主題曲.mp3"
 	},
 	{
+		name:"阿冗 - 未發送",
+		artist:"阿冗",
+		src:"music/y2mate.com - 阿冗  未發送對話框裡的內容我輸入 刪除了再刪除一個人的交流我重複了又重複動態歌詞Lyrics.mp3"
+	},
+	{
+		name:"梁心頤 再也沒有你",
+		artist:"梁心頤",
+		src:"music/y2mate.com - Lara Liang 梁心頤  No More U 再也沒有你  Official MV.mp3"
+	},
+	{
+		name:"The Kid Laroi - Stay ft. Justin Bieber & Juice WRLD",
+		artist:"Justin Bieber & Juice WRLD",
+		src:"music/y2mate.com - 中文翻譯The Kid Laroi  Stay ft Justin Bieber  Juice WRLD.mp3"
+	},
+	{
+		name:"Ed Sheeran - Shivers",
+		artist:"Ed Sheeran",
+		src:"music/y2mate.com - Ed Sheeran  Shivers中文歌詞字幕Lyrics.mp3"
+	},
+	{
+		name:"Ed Sheeran - Bad Habits",
+		artist:"Ed Sheeran",
+		src:"music/y2mate.com - 我壞習慣的後果是你Ed Sheeran  Bad Habits 英繁中字.mp3"
+	},
+	{
 		name:"julia wu【你是不是有點動心】",
 		artist:"julia wu",
 		src:"music/y2mate.com - 你是不是有點動心  Julia Wu 吳卓源Official Music Visual HD.mp3"
