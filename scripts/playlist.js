@@ -43,37 +43,7 @@
 		name:"Ed Sheeran - Bad Habits",
 		artist:"Ed Sheeran",
 		src:"music/y2mate.com - 我壞習慣的後果是你Ed Sheeran  Bad Habits 英繁中字.mp3"
-	},
-	{
-		name:"julia wu【你是不是有點動心】",
-		artist:"julia wu",
-		src:"music/y2mate.com - 你是不是有點動心  Julia Wu 吳卓源Official Music Visual HD.mp3"
-	},
-	{
-		name:"宇多田ヒカル - First Love",
-		artist:"宇多田ヒカル ",
-		src:"music/宇多田ヒカル  First Love.mp3"
 	},	
-	{
-		name:"King Gnu - 白日",
-		artist:"King Gnu ",
-		src:"music/y2mate.com - 中字 King Gnu  白日冤罪律師主題歌.mp3"
-	},	
-	{
-		name:"于文文-體面",
-		artist:"于文文 ",
-		src:"music/y2mate.com - 于文文體面動態歌詞版  前任3再見前任 插曲.mp3"
-	},		
-	{
-		name:"miwa＆坂口健太郎 -アイオクリ把愛獻給你",
-		artist:"miwa＆坂口健太郎",
-		src:"music/y2mate.com - The STROBOSCORP アイオクリ Aiokuri  sub thai.mp3"
-	},
-	{
-		name:" MIWA - 葵海",
-		artist:"miwa",
-		src:"music/y2mate.com -  MIWA  葵海與你的第100次戀愛插曲中文字幕.mp3"
-	},
 	{
 		name:"BTS-Dynamite -for CC ",
 		artist:"BTS ",
@@ -128,11 +98,6 @@
 		name:"Linkin Park - In The End ",
 		artist:"Linkin Park",
 		src:"music/yt1s.com - In The End 終點  Linkin Park 聯合公園 中文歌詞.mp3"
-	},
-	{
-		name:"中島美嘉  - 僕が死のうと思ったのは ",
-		artist:"中島美嘉 ",
-		src:"music/y2mate.com - 中島美嘉  曾經我也想過一了百了  歌詞  lyric.mp3"
 	},	
 	{
 		name:"ONE OK ROCK - The Beginning",
@@ -153,22 +118,7 @@
 		name:"ONE OK ROCK - Heartache",
 		artist:"ONE OK ROCK",
 		src:"music/y2mate.com - ONE OK ROCK  Heartache Studio Jam Session.mp3"
-	},		
-	{
-		name:"米津玄師 MV「Lemon」",
-		artist:"米津玄師",
-		src:"music/y2mate.com - 米津玄師  MVLemon.mp3"
-	},			
-	{
-		name:"SPYAIR - サムライハート",
-		artist:"SPYAIR",
-		src:"music/y2mate.com - HD銀魂 Gintama  SPYAIR  サムライハートSome Like It Hot 中日字幕.mp3"
-	},	
-	{
-		name:"The Writers 寫手 - BURN ",
-		artist:"The Writers 寫手",
-		src:"music/yt1s.com - The Writers 寫手  BURN 網路影集私室主題曲.mp3"
-	},	
+	},				
 	{
 		name:" 蛋堡 Soft Lipa - 史詩",
 		artist:"蛋堡",
@@ -179,11 +129,6 @@
 		artist:"Bon Jovi",
 		src:"music/y2mate.com - Bon Jovi  Its My Life Official Music Video.mp3"
 	},
-	{
-		name:"YUI - Again",
-		artist:"YUI",
-		src:"music/yt1s.com - HD鋼之鍊金術師 Fullmetal Alchemist Brotherhood OP1  YUI  Again中日字幕.mp3"
-	},	
 	{
 		name:"The Chainsmokers & Coldplay  - Something Just Like This ",
 		artist:"The Chainsmokers & Coldplay ",
@@ -263,11 +208,6 @@
 		name:"OneRepublic - Counting Stars    ",
 		artist:"OneRepublic  ",
 		src:"music/yt1s.com - OneRepublic  Counting Stars Official Music Video.mp3"
-	},	
-	{
-		name:"Sparkle - Your Name    ",
-		artist:"Sparkle  ",
-		src:"music/yt1s.com - Sparkle  Your Name AMV.mp3"
 	},	
 	{
 		name:"Taylor Swift - RED ",
