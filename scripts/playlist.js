@@ -30,6 +30,21 @@
 		src:"music/y2mate.com - Lara Liang 梁心頤  No More U 再也沒有你  Official MV.mp3"
 	},
 	{
+		name:" 蛋堡 Soft Lipa - 史詩",
+		artist:"蛋堡",
+		src:"music/y2mate.com - 顏社蛋堡 Soft Lipa  史詩 Official Music Video.mp3"
+	},
+	{
+		name:" ØZI -【S.M.O.K.E. 狼煙】",
+		artist:"ØZI",
+		src:"music/y2mate.com - ØZI SMOKE 狼煙ft KENZY 小春.mp3"
+	},
+	{
+		name:" Anthem Lights & Charlotte Ave",
+		artist:"Anthem Lights & Charlotte Ave",
+		src:"music/y2mate.com - AMERICA MEDLEY 2021  Anthem Lights  Charlotte Ave.mp3"
+	},
+	{
 		name:"The Kid Laroi - Stay ft. Justin Bieber & Juice WRLD",
 		artist:"Justin Bieber & Juice WRLD",
 		src:"music/y2mate.com - 中文翻譯The Kid Laroi  Stay ft Justin Bieber  Juice WRLD.mp3"
@@ -119,11 +134,6 @@
 		artist:"ONE OK ROCK",
 		src:"music/y2mate.com - ONE OK ROCK  Heartache Studio Jam Session.mp3"
 	},				
-	{
-		name:" 蛋堡 Soft Lipa - 史詩",
-		artist:"蛋堡",
-		src:"music/y2mate.com - 顏社蛋堡 Soft Lipa  史詩 Official Music Video.mp3"
-	},
 	{
 		name:"Bon Jovi - It's My Life",
 		artist:"Bon Jovi",
