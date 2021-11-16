@@ -135,11 +135,6 @@
 		src:"music/y2mate.com - ONE OK ROCK  Heartache Studio Jam Session.mp3"
 	},				
 	{
-		name:"Bon Jovi - It's My Life",
-		artist:"Bon Jovi",
-		src:"music/y2mate.com - Bon Jovi  Its My Life Official Music Video.mp3"
-	},
-	{
 		name:"The Chainsmokers & Coldplay  - Something Just Like This ",
 		artist:"The Chainsmokers & Coldplay ",
 		src:"music/yt1s.com - 拯救了整座城市卻救不了你Something Just Like This 如此而已  The Chainsmokers  Coldplay 剪輯版 蜘蛛人驚奇再起 中文字幕.mp3"
@@ -183,11 +178,6 @@
 		name:"Hawk Nelson - Sold Out  ",
 		artist:"Hawk Nelson",
 		src:"music/yt1s.com - 歐美電影剪輯5Manners Makyth Man 不知禮無以立也燃.mp3"
-	},	
-	{
-		name:"Gym Class Heroes - Stereo Hearts  ",
-		artist:"Gym Class Heroes",
-		src:"music/yt1s.com - Stereo Hearts Lyrics.mp3"
 	},	
 	{
 		name:"Alex Goot & Against The Current - Catch My Breath   ",
