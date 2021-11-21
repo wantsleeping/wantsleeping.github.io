@@ -40,6 +40,16 @@
 		src:"music/y2mate.com - ØZI SMOKE 狼煙ft KENZY 小春.mp3"
 	},
 	{
+		name:" Westlife - My Hero",
+		artist:"Westlife",
+		src:"music/y2mate.com - Westlife  My Hero Official Visualiser.mp3"
+	},
+	{
+		name:" Westlife - top 20 bestest",
+		artist:"Westlife",
+		src:"music/y2mate.com - The Best of Westlife   Westlife Greatest Hits Full Album.mp3"
+	},
+	{
 		name:" Anthem Lights & Charlotte Ave",
 		artist:"Anthem Lights & Charlotte Ave",
 		src:"music/y2mate.com - AMERICA MEDLEY 2021  Anthem Lights  Charlotte Ave.mp3"
