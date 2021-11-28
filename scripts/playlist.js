@@ -30,6 +30,11 @@
 		src:"music/y2mate.com - Lara Liang 梁心頤  No More U 再也沒有你  Official MV.mp3"
 	},
 	{
+		name:"陳忻玥 Vicky Chen - 煙幕",
+		artist:"陳忻玥",
+		src:"music/y2mate.com - 陳忻玥 Vicky Chen  煙幕 Smokescreen 彩虹六部曲第一次La Boum Official MV  KKTV原創電視劇.mp3"
+	},
+	{
 		name:" 蛋堡 Soft Lipa - 史詩",
 		artist:"蛋堡",
 		src:"music/y2mate.com - 顏社蛋堡 Soft Lipa  史詩 Official Music Video.mp3"
