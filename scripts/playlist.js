@@ -45,6 +45,11 @@
 		src:"music/y2mate.com - ØZI SMOKE 狼煙ft KENZY 小春.mp3"
 	},
 	{
+		name:"Westlife - 平凡之路",
+		artist:"Westlife",
+		src:"music/y2mate.com - 西城男孩westlife全球首场直播平凡之路完整版.mp3"
+	},
+	{
 		name:" Westlife - My Hero",
 		artist:"Westlife",
 		src:"music/y2mate.com - Westlife  My Hero Official Visualiser.mp3"
