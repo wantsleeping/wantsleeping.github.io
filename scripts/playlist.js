@@ -1,5 +1,20 @@
 ﻿trackList = [
 	{
+		name:"信爱成瘾",
+		artist:"Ella 陳嘉樺",
+		src:"music/y2mate.com - 信爱成瘾 Love Addiction Ella 陳嘉樺.mp3"
+	},
+	{
+		name:"Reunite · Jordie Power",
+		artist:"Jordie Power",
+		src:"music/y2mate.com - Reunite.mp3"
+	},
+	{
+		name:"何瑞康 - 刑者",
+		artist:"何瑞康",
+		src:"music/y2mate.com - 何瑞康  刑者 歌词版.mp3"
+	},
+	{
 		name:"TRASH 重感情的廢物 Heavyhearted Loser",
 		artist:"TRASH",
 		src:"music/y2mate.com - TRASH重感情的廢物 Heavyhearted LoserOfficial Music Video.mp3"
@@ -53,11 +68,6 @@
 		name:" Westlife - My Hero",
 		artist:"Westlife",
 		src:"music/y2mate.com - Westlife  My Hero Official Visualiser.mp3"
-	},
-	{
-		name:" Westlife - top 20 bestest",
-		artist:"Westlife",
-		src:"music/y2mate.com - The Best of Westlife   Westlife Greatest Hits Full Album.mp3"
 	},
 	{
 		name:" Anthem Lights & Charlotte Ave",
@@ -120,11 +130,6 @@
 		src:"music/yt1s.com - Adam Levine  Lost Stars from Begin Again.mp3"
 	},	
 	{
-		name:"Bleachers - I Wanna Get Better ",
-		artist:"Bleachers ",
-		src:"music/yt1s.com - Bleachers  I Wanna Get Better.mp3"
-	},
-	{
 		name:"Against The Current & ONE OK ROCK - Dreaming Alone ",
 		artist:"Against The Current & ONE OK ROCK",
 		src:"music/yt1s.com - Dreaming Alone  Against The Current feat  Taka from ONE OK ROCK 中文字幕.mp3"
@@ -133,27 +138,7 @@
 		name:"Linkin Park - In The End ",
 		artist:"Linkin Park",
 		src:"music/yt1s.com - In The End 終點  Linkin Park 聯合公園 中文歌詞.mp3"
-	},	
-	{
-		name:"ONE OK ROCK - The Beginning",
-		artist:"ONE OK ROCK",
-		src:"music/y2mate.com - ONE OK ROCK  The Beginning Official Music Video.mp3"
-	},
-	{
-		name:"ONE OK ROCK - Clock Strikes",
-		artist:"ONE OK ROCK",
-		src:"music/y2mate.com - ONE OK ROCK  Clock Strikes Official Music Video.mp3"
-	},
-	{
-		name:"ONE OK ROCK - C.h.a.o.s.m.y.t.h.",
-		artist:"ONE OK ROCK",
-		src:"music/y2mate.com - ONE OK ROCK  Chaosmyth Official Music Video.mp3"
-	},	
-	{
-		name:"ONE OK ROCK - Heartache",
-		artist:"ONE OK ROCK",
-		src:"music/y2mate.com - ONE OK ROCK  Heartache Studio Jam Session.mp3"
-	},				
+	},			
 	{
 		name:"The Chainsmokers & Coldplay  - Something Just Like This ",
 		artist:"The Chainsmokers & Coldplay ",
@@ -228,30 +213,5 @@
 		name:"OneRepublic - Counting Stars    ",
 		artist:"OneRepublic  ",
 		src:"music/yt1s.com - OneRepublic  Counting Stars Official Music Video.mp3"
-	},	
-	{
-		name:"Taylor Swift - RED ",
-		artist:"Taylor Swift  ",
-		src:"music/yt1s.com - Taylor Swift  Red 焰紅 lyrics 中英歌詞 中文翻譯.mp3"
-	},	
-	{
-		name:"Alex Goot & Friends - One More Night ",
-		artist:"Alex Goot & Friends ",
-		src:"music/yt1s.com - One More Night    Alex Goot  Friends cover 中文字幕.mp3"
-	},	
-	{
-		name:"Taylor Swift - Mean ",
-		artist:"Taylor Swift ",
-		src:"music/yt1s.com - Taylor SwiftMean 中英字幕 反欺凌歌曲 ACM Award 表演.mp3"
-	},
-	{
-		name:"Alex Goot - Lightning ",
-		artist:"Alex Goot ",
-		src:"music/yt1s.com - Lightning    Alex Goot 中文字幕.mp3"
-	},	
-	{
-		name:"Alex Goot - Apologize ",
-		artist:"Alex Goot ",
-		src:"music/yt1s.com - Apologize   Alex Goot cover 中文字幕.mp3"
 	},	
 ];
