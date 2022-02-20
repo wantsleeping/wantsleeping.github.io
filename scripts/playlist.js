@@ -1,5 +1,50 @@
 ﻿trackList = [
 	{
+		name:"U R",
+		artist:"太妍",
+		src:"music/y2mate.com - Lyrics   太妍TAEYEON  UR  中字.mp3"
+	},
+	{
+		name:"四季",
+		artist:"太妍",
+		src:"music/y2mate.com - 韓中字太妍 태연 TAEYEON  四季 사계 Four Seasons.mp3"
+	},
+	{
+		name:"Fine",
+		artist:"太妍",
+		src:"music/y2mate.com - TAEYEON 태연 Fine MV.mp3"
+	},
+	{
+		name:"I",
+		artist:"太妍",
+		src:"music/y2mate.com - TAEYEON 태연 I feat Verbal Jint MV.mp3"
+	},
+	{
+		name:"GEMINI",
+		artist:"太妍",
+		src:"music/y2mate.com - 유희열의 스케치북  태연  쌍둥이자리20160219.mp3"
+	},
+	{
+		name:"Blue",
+		artist:"太妍",
+		src:"music/y2mate.com - DJ티비씨 태연  Blue  비긴어게인3 DJ티비씨.mp3"
+	},
+	{
+		name:"I Blame On You",
+		artist:"太妍",
+		src:"music/y2mate.com - I Blame On You.mp3"
+	},
+	{
+		name:"孤勇者",
+		artist:"陳奕迅",
+		src:"music/y2mate.com - 孤勇者英雄聯盟雙城之戰動畫劇集中文主題曲陳奕迅 Eason Chan Official MV.mp3"
+	},
+	{
+		name:"你瞞我瞞",
+		artist:"陳柏宇 Jason Chan",
+		src:"music/y2mate.com - 陳柏宇 Jason Chan  你瞞我瞞 Official MV.mp3"
+	},
+	{
 		name:"信爱成瘾",
 		artist:"Ella 陳嘉樺",
 		src:"music/y2mate.com - 信爱成瘾 Love Addiction Ella 陳嘉樺.mp3"
