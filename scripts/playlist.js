@@ -55,6 +55,21 @@
 		src:"music/y2mate.com - Reunite.mp3"
 	},
 	{
+		name:"ozi - MISSIONARY",
+		artist:"ozi",
+		src:"music/y2mate.com - MISSIONARY 傳教士.mp3"
+	},
+	{
+		name:"ozi - Bad Intentions",
+		artist:"ozi",
+		src:"music/y2mate.com - Bad Intentions 企圖.mp3"
+	},
+	{
+		name:"ozi - 003",
+		artist:"ozi",
+		src:"music/y2mate.com - ØZI 003 Audio.mp3"
+	},
+	{
 		name:"何瑞康 - 刑者",
 		artist:"何瑞康",
 		src:"music/y2mate.com - 何瑞康  刑者 歌词版.mp3"
