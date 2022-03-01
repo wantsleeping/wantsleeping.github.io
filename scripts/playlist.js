@@ -55,6 +55,26 @@
 		src:"music/y2mate.com - Reunite.mp3"
 	},
 	{
+		name:"Collage蓮花空行身染愛· 珂拉琪 Collage",
+		artist:"珂拉琪 Collage",
+		src:"music/y2mate.com - 珂拉琪 Collage蓮花空行身染愛.mp3"
+	},
+	{
+		name:"萬千花蕊慈母悲哀· 珂拉琪 Collage",
+		artist:"珂拉琪 Collage",
+		src:"music/y2mate.com - 珂拉琪 Collage萬千花蕊慈母悲哀.mp3"
+	},
+	{
+		name:"葬予規路火烌猶在· 珂拉琪 Collage",
+		artist:"珂拉琪 Collage",
+		src:"music/y2mate.com - 珂拉琪 Collage葬予規路火烌猶在.mp3"
+	},
+	{
+		name:"這該死的拘執佮愛· 珂拉琪 Collage",
+		artist:"珂拉琪 Collage",
+		src:"music/y2mate.com - 珂拉琪 Collage這該死的拘執佮愛.mp3"
+	},
+	{
 		name:"ozi - MISSIONARY",
 		artist:"ozi",
 		src:"music/y2mate.com - MISSIONARY 傳教士.mp3"
