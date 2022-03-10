@@ -45,6 +45,11 @@
 		src:"music/y2mate.com - 陳柏宇 Jason Chan  你瞞我瞞 Official MV.mp3"
 	},
 	{
+		name:"范瑋琪 FanFan【恰如其分的自己 Solitary Moment】",
+		artist:"范瑋琪",
+		src:"music/y2mate.com - 范瑋琪 FanFan恰如其分的自己 Solitary MomentOfficial MV.mp3"
+	},
+	{
 		name:"信爱成瘾",
 		artist:"Ella 陳嘉樺",
 		src:"music/y2mate.com - 信爱成瘾 Love Addiction Ella 陳嘉樺.mp3"
