@@ -35,6 +35,11 @@
 		src:"music/y2mate.com - I Blame On You.mp3"
 	},
 	{
+		name:"寂寞讓你更快樂",
+		artist:"陳奕迅",
+		src:"music/y2mate.com - 陳奕迅寂寞讓你更快樂國OT大開眼戒MV.mp3"
+	},
+	{
 		name:"孤勇者",
 		artist:"陳奕迅",
 		src:"music/y2mate.com - 孤勇者英雄聯盟雙城之戰動畫劇集中文主題曲陳奕迅 Eason Chan Official MV.mp3"
@@ -43,6 +48,11 @@
 		name:"你瞞我瞞",
 		artist:"陳柏宇 Jason Chan",
 		src:"music/y2mate.com - 陳柏宇 Jason Chan  你瞞我瞞 Official MV.mp3"
+	},
+	{
+		name:"烏雲日記",
+		artist:"艾薇",
+		src:"music/y2mate.com - 烏雲日記.mp3"
 	},
 	{
 		name:"范瑋琪 FanFan【恰如其分的自己 Solitary Moment】",
