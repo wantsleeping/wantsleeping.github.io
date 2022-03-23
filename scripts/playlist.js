@@ -35,6 +35,96 @@
 		src:"music/y2mate.com - I Blame On You.mp3"
 	},
 	{
+		name:"魚丁糸 oaeen【Sorry 青春 Sorry for Youth】",
+		artist:"魚丁糸",
+		src:"music/y2mate.com - 魚丁糸 oaeenSorry 青春 Sorry for Youth Official Music Video.mp3"
+	},
+	{
+		name:"Forget Me Not feat. Dorian",
+		artist:"Dorian",
+		src:"music/y2mate.com - Andra  Forget Me Not feat Dorian Official Video.mp3"
+	},
+	{
+		name:"沒什麼大不了",
+		artist:"陳芳語",
+		src:"music/y2mate.com - 沒什麼大不了 no biggie feat 茄子蛋阿斌  Kimberley Chen 陳芳語Official Music Video.mp3"
+	},
+	{
+		name:"魏嘉瑩 Arrow Wei【要怎麼告訴你我多喜歡】",
+		artist:"魏嘉瑩 Arrow Wei",
+		src:"music/y2mate.com - 魏嘉瑩 Arrow Wei要怎麼告訴你我多喜歡feat 理想混蛋雞丁 Official Music Video.mp3"
+	},
+	{
+		name:"錘娜麗莎 - 我太笨",
+		artist:"錘娜麗莎",
+		src:"music/y2mate.com - 錘娜麗莎  我太笨是不是我太笨 只要你說的我全都信任不能去拆穿的又何必追問動態歌詞VietsubPinyin Lyrics.mp3"
+	},
+	{
+		name:"徐佳瑩 LaLa【雛形 Prototype】",
+		artist:"徐佳瑩 LaLa",
+		src:"music/y2mate.com - 徐佳瑩 LaLa雛形 PrototypeOfficial Lyrics Video.mp3"
+	},
+	{
+		name:"今天，半永久",
+		artist:"梁靜茹 Fish Leong",
+		src:"music/y2mate.com - 梁靜茹 Fish Leong今天半永久 Today  Halfway to The Permanent Official Music Video.mp3"
+	},
+	{
+		name:"Andra - Love Can Save It All",
+		artist:"Andra",
+		src:"music/y2mate.com - Andra  Love Can Save It All Official Video.mp3"
+	},
+	{
+		name:"Andra - Love Can Save It All",
+		artist:"Andra",
+		src:"music/y2mate.com - Andra  Love Can Save It All Official Video.mp3"
+	},
+	{
+		name:"九澤CP【最後一秒鐘 Last Second】",
+		artist:"九澤CP",
+		src:"music/y2mate.com - 九澤CP最後一秒鐘 Last Second電視劇無神之地不下雨片頭曲 Official Music Video.mp3"
+	},
+	{
+		name:"最悲傷的事 More Than Sorrow ",
+		artist:"A-Lin",
+		src:"music/y2mate.com - ALin 最悲傷的事 More Than Sorrow Official Music Video  比悲傷更悲傷的故事  影集版  主題曲.mp3"
+	},
+	{
+		name:"盧廣仲 Crowd Lu 自我的介紹 ",
+		artist:"盧廣仲 Crowd Lu",
+		src:"music/y2mate.com - 盧廣仲 Crowd Lu自我的介紹 in peaceOfficial Music Video.mp3"
+	},
+	{
+		name:"艾怡良 Eve Ai 貪 Greediness",
+		artist:"艾怡良 Eve Ai",
+		src:"music/y2mate.com - 艾怡良 Eve Ai 貪 GreedinessOfficial Music Video.mp3"
+	},
+	{
+		name:"Andra & Mara - Sweet Dreams",
+		artist:"Andra & Mara",
+		src:"music/y2mate.com - Andra  Mara  Sweet Dreams Radio Killer Remix.mp3"
+	},
+	{
+		name:"精神分裂 Split - Julia Wu 吳卓源",
+		artist:"吳卓源",
+		src:"music/y2mate.com - 精神分裂 Split  Julia Wu 吳卓源Official Music Video.mp3"
+	},
+	{
+		name:"理想混蛋 Bestards我就想你 Miss You So",
+		artist:"理想混蛋 Bestards",
+		src:"music/y2mate.com - 理想混蛋 Bestards我就想你 Miss You SoOfficial Music Video.mp3"
+	},
+	{
+		name:"玻璃心 黃明志 Namewee Ft.陳芳語",
+		artist:"黃明志",
+		src:"music/y2mate.com - 聽見玻璃心碎的聲音玻璃心 Fragile黃明志 Namewee Ft陳芳語 Kimberley Chen 鬼才做音樂 2021 Ghosician.mp3"
+	},
+	{
+		name:"孫盛希 Shi Shi 雨不停。流",
+		artist:"孫盛希",
+		src:"music/y2mate.com - 孫盛希 Shi Shi雨不停流 Never Ending Rain電視劇無神之地不下雨片尾曲 Official Music Video.mp3"
+	},
+	{
 		name:"寂寞讓你更快樂",
 		artist:"陳奕迅",
 		src:"music/y2mate.com - 陳奕迅寂寞讓你更快樂國OT大開眼戒MV.mp3"
@@ -143,16 +233,6 @@
 		name:"陳忻玥 Vicky Chen - 煙幕",
 		artist:"陳忻玥",
 		src:"music/y2mate.com - 陳忻玥 Vicky Chen  煙幕 Smokescreen 彩虹六部曲第一次La Boum Official MV  KKTV原創電視劇.mp3"
-	},
-	{
-		name:" 蛋堡 Soft Lipa - 史詩",
-		artist:"蛋堡",
-		src:"music/y2mate.com - 顏社蛋堡 Soft Lipa  史詩 Official Music Video.mp3"
-	},
-	{
-		name:" ØZI -【S.M.O.K.E. 狼煙】",
-		artist:"ØZI",
-		src:"music/y2mate.com - ØZI SMOKE 狼煙ft KENZY 小春.mp3"
 	},
 	{
 		name:"Westlife - 平凡之路",
