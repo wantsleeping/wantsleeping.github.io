@@ -25,6 +25,11 @@
 		src:"music/yt1s.com - Ed Sheeran  Afterglow Official Performance Video.mp3"
 	},
 	{
+		name:"偉大的渺小",
+		artist:"林俊傑",
+		src:"music/yt1s.com - 林俊傑 偉大的渺小歌詞.mp3"
+	},
+	{
 		name:"在這座城市遺失了你",
 		artist:"告五人",
 		src:"music/yt1s.com - 告五人 Accusefive  在這座城市遺失了你 Where I Lost Us  歌詞電視劇她們創業的那些鳥事插曲lyrics SMDlyrics.mp3"
