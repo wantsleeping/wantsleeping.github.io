@@ -15,6 +15,16 @@
 		src:"music/yt1s.com - 忽然之間  莫文蔚  超高无损音質動態歌詞Lyrics.mp3"
 	},
 	{
+		name:"你要不要吃哈密瓜",
+		artist:"告五人",
+		src:"music/yt1s.com - 告五人  你要不要吃哈密瓜 Lyrics.mp3"
+	},
+	{
+		name:"醜人多作怪",
+		artist:"告五人",
+		src:"music/yt1s.com - 告五人  醜人多作怪醜人多作怪 你最好全部從實招來動態歌詞Lyrics.mp3"
+	},
+	{
 		name:"0321",
 		artist:"space x",
 		src:"music/yt1s.com - 0321  space x在看不到的夜裡我時刻在想你動態歌詞.mp3"
