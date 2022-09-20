@@ -15,6 +15,11 @@
 		src:"music/yt1s.com - 忽然之間  莫文蔚  超高无损音質動態歌詞Lyrics.mp3"
 	},
 	{
+		name:"给你一瓶魔法药水",
+		artist:"告五人",
+		src:"music/yt1s.com - 给你一瓶魔法药水 You are My Magic 告五人 Accusefive 动态歌词 lyric videowith English Subtitles.mp3"
+	},
+	{
 		name:"你要不要吃哈密瓜",
 		artist:"告五人",
 		src:"music/yt1s.com - 告五人  你要不要吃哈密瓜 Lyrics.mp3"
