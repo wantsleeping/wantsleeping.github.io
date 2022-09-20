@@ -10,9 +10,29 @@
 		src:"music/yt1s.com - Everything I Need  Skylar Grey Lyrics.mp3"
 	},
 	{
+		name:"忽然之間",
+		artist:"莫文蔚",
+		src:"music/yt1s.com - 忽然之間  莫文蔚  超高无损音質動態歌詞Lyrics.mp3"
+	},
+	{
+		name:"0321",
+		artist:"space x",
+		src:"music/yt1s.com - 0321  space x在看不到的夜裡我時刻在想你動態歌詞.mp3"
+	},
+	{
 		name:"STAY",
 		artist:"Justin Bieber",
 		src:"music/yt1s.com - The Kid LAROI Justin Bieber  STAY Official Video.mp3"
+	},
+	{
+		name:"枯萎的玫瑰",
+		artist:"老王樂隊",
+		src:"music/yt1s.com - 老王樂隊枯萎的玫瑰 Withered Roses Official.mp3"
+	},
+	{
+		name:"這樣就好",
+		artist:"老王樂隊",
+		src:"music/yt1s.com - 特別企劃我們的青春練習曲公視x老王樂隊這樣就好這樣就好新歌首演版MV.mp3"
 	},
 	{
 		name:"Small Bump",
@@ -20,9 +40,39 @@
 		src:"music/yt1s.com - Ed Sheeran  Small Bump Official Music Video.mp3"
 	},
 	{
+		name:"你的樣子",
+		artist:"宇宙人",
+		src:"music/yt1s.com - 你的樣子 The Way You Are宇宙人Cosmos People 中文歌詞好喜歡你的樣子 想給你我家鑰匙.mp3"
+	},
+	{
+		name:"愛人錯過",
+		artist:"告五人",
+		src:"music/yt1s.com - 愛人錯過 Somewhere in time 告五人 Accusefive 歌詞 Lyrics MandarinPinyinEnglish.mp3"
+	},
+	{
+		name:"Happy運將情歌",
+		artist:"茄子蛋",
+		src:"music/yt1s.com - 茄子蛋 茄仔卵    Happy運將情歌     EggplantEgg  Happy Drivers Love Song.mp3"
+	},
+	{
 		name:"Afterglow",
 		artist:"Ed Sheeran",
 		src:"music/yt1s.com - Ed Sheeran  Afterglow Official Performance Video.mp3"
+	},
+	{
+		name:"Celebrity",
+		artist:"IU",
+		src:"music/yt1s.com - 韓繁中字IU아이유  CelebrityLyrics歌詞가사.mp3"
+	},
+	{
+		name:"LILAC",
+		artist:"IU",
+		src:"music/yt1s.com - IU LILAC Lyrics 아이유 라일락 가사  Color Coded Lyrics.mp3"
+	},
+	{
+		name:"唯一",
+		artist:"告五人",
+		src:"music/yt1s.com - 告五人  唯一  Lyrics.mp3"
 	},
 	{
 		name:"偉大的渺小",
@@ -38,6 +88,11 @@
 		name:"斑馬斑馬",
 		artist:"宋冬野",
 		src:"music/yt1s.com - 宋冬野斑馬斑馬 歌詞.mp3"
+	},
+	{
+		name:"我還繞著你在旋轉",
+		artist:"宇宙人",
+		src:"music/yt1s.com - Cosmos People 宇宙人  我還繞著你在旋轉 Expired  Official Music Video.mp3"
 	},
 	{
 		name:"董小姐",
@@ -58,6 +113,11 @@
 		name:"我反芻著你留下的寂寞",
 		artist:"理想混蛋",
 		src:"music/yt1s.com - 理想混蛋 Bestards我反芻著你留下的寂寞 The Endless RuminationOfficial Music Video.mp3"
+	},
+	{
+		name:"藍色的你",
+		artist:"宇宙人",
+		src:"music/yt1s.com - 宇宙人藍色的你歌詞.mp3"
 	},
 	{
 		name:"不是因为天气晴朗才爱你",
@@ -88,6 +148,16 @@
 		name:"她沒在看我",
 		artist:"ESO 瘦子",
 		src:"music/yt1s.com - ESO 瘦子  她沒在看我 歌詞版 CC字幕.mp3"
+	},
+	{
+		name:"Something I Dont Need",
+		artist:"ESO 瘦子",
+		src:"music/yt1s.com - 瘦子ESOSomething I Dont NeedOfficial Music Video.mp3"
+	},
+	{
+		name:"伯父",
+		artist:"ESO 瘦子",
+		src:"music/yt1s.com - 瘦子ESO伯父 Bo Fu 歌詞版.mp3"
 	},
 	{
 		name:"阿拉斯加海灣",
@@ -143,6 +213,16 @@
 		name:"披星戴月的想你",
 		artist:"告五人",
 		src:"music/yt1s.com - 告五人 Accusefive 披星戴月的想你Official Music Video.mp3"
+	},
+	{
+		name:"我以為你不會出現",
+		artist:"告五人",
+		src:"music/yt1s.com - 告五人 Accusefive  我以為你不會出現 Take Me With You  UAG安全感形象曲歌詞 lyrics SMD lyrics.mp3"
+	},
+	{
+		name:"爱在夏天",
+		artist:"告五人",
+		src:"music/yt1s.com - 告五人  爱在夏天 Lyrics.mp3"
 	},
 	{
 		name:"長成什麼樣子算愛情",
