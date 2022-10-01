@@ -105,6 +105,11 @@
 		src:"music/yt1s.com - 陳零九 Nine Chen 我不像他 I am MeOfficial Music Video.mp3"
 	},
 	{
+		name:"最寂寞的時候",
+		artist:"盧廣仲",
+		src:"music/yt1s.com - 最寂寞的時候歌詞版.mp3"
+	},
+	{
 		name:"愛人錯過",
 		artist:"告五人",
 		src:"music/yt1s.com - 愛人錯過 Somewhere in time 告五人 Accusefive 歌詞 Lyrics MandarinPinyinEnglish.mp3"
