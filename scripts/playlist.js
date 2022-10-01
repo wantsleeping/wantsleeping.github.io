@@ -1,5 +1,115 @@
 ﻿trackList = [
 	{
+		name:"偷偷的",
+		artist:"MP魔幻力量 ",
+		src:"music/yt1s.com - MP魔幻力量  偷偷的歌詞.mp3"
+	},
+	{
+		name:"就站在這裡",
+		artist:"宋念宇 ",
+		src:"music/yt1s.com - 宋念宇  就站在這裡.mp3"
+	},
+	{
+		name:"捕捉",
+		artist:"張葉蕾 ",
+		src:"music/yt1s.com - 張葉蕾  捕捉你是我觸碰不到 無法捕捉的銀河是我愛而不得 患得患失的快樂動態歌詞VietsubPinyin Lyrics.mp3"
+	},
+	{
+		name:"秘密",
+		artist:"張震嶽",
+		src:"music/yt1s.com - 秘密  張震嶽.mp3"
+	},
+	{
+		name:"你的好人",
+		artist:"邱鋒澤",
+		src:"music/yt1s.com - 邱鋒澤 你的好人 歌詞版.mp3"
+	},
+	{
+		name:"不需要知道",
+		artist:"韋禮安",
+		src:"music/yt1s.com - 韋禮安   不需要知道歌詞.mp3"
+	},
+	{
+		name:"濫好人",
+		artist:"陳威全",
+		src:"music/yt1s.com - 陳威全濫好人歌詞版.mp3"
+	},
+	{
+		name:"妳說妳還不了",
+		artist:"曹楊",
+		src:"music/yt1s.com - 曹楊 Young 妳說妳還不了 Unrequited Love 歌詞.mp3"
+	},
+	{
+		name:"浪费",
+		artist:"林宥嘉",
+		src:"music/yt1s.com - 浪费 林宥嘉 歌词版.mp3"
+	},
+	{
+		name:"我給的",
+		artist:"吳思賢",
+		src:"music/yt1s.com - 吳思賢 Ben Wu我給的Official Audio.mp3"
+	},
+	{
+		name:"我以為",
+		artist:"品冠",
+		src:"music/yt1s.com - 品冠  我以為歌詞.mp3"
+	},
+	{
+		name:"同一個遺憾",
+		artist:"紀佳松",
+		src:"music/yt1s.com - 紀佳松 BLUE J  同一個遺憾 Tong Yi Ge Yi Han MV feat 潘瑋柏 Wilber Pan 江語晨.mp3"
+	},
+	{
+		name:"退讓",
+		artist:"曾昱嘉",
+		src:"music/yt1s.com - 曾昱嘉  退讓 電視劇我們不能是朋友片頭曲動態歌詞LyricsChinese Music.mp3"
+	},
+	{
+		name:"最好的結局",
+		artist:"831",
+		src:"music/yt1s.com - 最好的結局.mp3"
+	},
+	{
+		name:"備胎",
+		artist:"謝和弦",
+		src:"music/yt1s.com - 謝和弦  備胎 feat Eetu Kalavainen.mp3"
+	},
+	{
+		name:"不再打擾你",
+		artist:"許書豪",
+		src:"music/yt1s.com - Haor許書豪不再打擾你 unplugged version 歌詞版.mp3"
+	},
+	{
+		name:"大不了就再遺憾",
+		artist:"王櫟鑫",
+		src:"music/yt1s.com - 王櫟鑫大不了就再遺憾官方高畫質 Official HD MV.mp3"
+	},
+	{
+		name:"愛過你有多久就有多痛",
+		artist:"蕭秉治",
+		src:"music/yt1s.com - 蕭秉治 愛過你有多久就有多痛 歌詞.mp3"
+	},
+	{
+		name:"那女孩對我說",
+		artist:"黃義達",
+		src:"music/yt1s.com - Uu  那女孩對我說原唱黃義達遍體鱗傷的我一天也沒再愛過動態歌詞Lyrics.mp3"
+	},
+	{
+		name:"我不走",
+		artist:"陳零九",
+		src:"music/yt1s.com -陳零九  我不走歌詞.mp3"
+	},
+	{
+		name:"我不像他",
+		artist:"陳零九",
+		src:"music/yt1s.com - 陳零九 Nine Chen 我不像他 I am MeOfficial Music Video.mp3"
+	},
+	{
+		name:"愛人錯過",
+		artist:"告五人",
+		src:"music/yt1s.com - 愛人錯過 Somewhere in time 告五人 Accusefive 歌詞 Lyrics MandarinPinyinEnglish.mp3"
+	},
+	{
 		name:"Love Is Gone",
 		artist:"SLANDER ",
 		src:"music/yt1s.com - SLANDER  Love Is Gone ft Dylan Matthew Acoustic.mp3"
@@ -58,11 +168,6 @@
 		name:"你的樣子",
 		artist:"宇宙人",
 		src:"music/yt1s.com - 你的樣子 The Way You Are宇宙人Cosmos People 中文歌詞好喜歡你的樣子 想給你我家鑰匙.mp3"
-	},
-	{
-		name:"愛人錯過",
-		artist:"告五人",
-		src:"music/yt1s.com - 愛人錯過 Somewhere in time 告五人 Accusefive 歌詞 Lyrics MandarinPinyinEnglish.mp3"
 	},
 	{
 		name:"Happy運將情歌",
