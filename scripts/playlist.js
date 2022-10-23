@@ -1,5 +1,10 @@
 ﻿trackList = [
 	{
+		name:"How long will i love you",
+		artist:"Ellie Goulding ",
+		src:"music/yt1s.com - Ellie Goulding How long will i love you Lyrics HD.mp3"
+	},
+	{
 		name:"偷偷的",
 		artist:"MP魔幻力量 ",
 		src:"music/yt1s.com - MP魔幻力量  偷偷的歌詞.mp3"
