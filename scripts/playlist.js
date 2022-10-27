@@ -1,5 +1,10 @@
 ﻿trackList = [
 	{
+		name:"嗜愛的動物",
+		artist:"麋先生",
+		src:"music/yt1s.com - 嗜愛的動物 麋先生 歌詞版.mp3"
+	},
+	{
 		name:"The Luckiest",
 		artist:"Ben Folds  ",
 		src:"music/yt1s.com - The Luckiest  Ben Folds  Lyrics.mp3"
