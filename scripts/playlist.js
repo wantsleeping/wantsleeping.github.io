@@ -1,5 +1,10 @@
 ﻿trackList = [
 	{
+		name:"閉上眼睛會想起的人",
+		artist:"JiaJia家家",
+		src:"music/yt1s.com - JiaJia家家  閉上眼睛會想起的人 The One I Miss 電影一杯熱奶茶的等待主題曲動態歌詞PinyinEnglish translation.mp3"
+	},
+	{
 		name:"嗜愛的動物",
 		artist:"麋先生",
 		src:"music/yt1s.com - 嗜愛的動物 麋先生 歌詞版.mp3"
