@@ -1,5 +1,25 @@
 ﻿trackList = [
 	{
+		name:"反骨歸真",
+		artist:"麋先生",
+		src:"music/yt1s.com - 麋先生 MIXER  反骨歸真 I  Official Music Video電影素還真主題曲.mp3"
+	},
+	{
+		name:"八字不合",
+		artist:"麋先生",
+		src:"music/yt1s.com - 麋先生MIXER八字不合 Mismatch of FateOfficial Live Video.mp3"
+	},
+	{
+		name:"接著",
+		artist:"麋先生",
+		src:"music/yt1s.com - 麋先生MIXER接著 Then Official Music Video.mp3"
+	},
+	{
+		name:"愚公移山",
+		artist:"麋先生",
+		src:"music/yt1s.com - 麋先生MIXER愚公移山 On The RoadLive in 2020 Rock in Taichung.mp3"
+	},
+	{
 		name:"閉上眼睛會想起的人",
 		artist:"JiaJia家家",
 		src:"music/yt1s.com - JiaJia家家  閉上眼睛會想起的人 The One I Miss 電影一杯熱奶茶的等待主題曲動態歌詞PinyinEnglish translation.mp3"
